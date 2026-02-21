@@ -17,7 +17,7 @@ This is my first repsoitory that can be used when decribing a project. I can cha
 
 ## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add description to help others understand your project. This should explain in detail what you did in this project, what you accomplished, outcomes, results, and so on. Make this a couple paragraphs
+This is my first repository on GitHub! I am getting familiar with the website and how to use it, and I think it's a great source for displaying documents in a professional manner!
 
 ## Tools Used
 
