@@ -21,7 +21,7 @@ Practice using GitHub by creating a sample repository. Make sure you add descrip
 
 ## Tools Used
 
-Discussed all orograming languages and tools used in this project. This could include python, SQL, Excel, Power BI, Websites and more. 
+Discussed all programing languages and tools used in this project. This could include python, SQL, Excel, Power BI, Websites and more. 
 
 ## Files used
 
