@@ -34,4 +34,4 @@ Insert the file of your project
 
 ## Additional Information
 
-Any other information that is relevant to the project. 
+~~Any other information that is relevant to the project.~~
