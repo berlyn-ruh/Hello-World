@@ -13,7 +13,8 @@ This is my first repsoitory that can be used when decribing a project. I can cha
 
 ## Project Title
 
-*<ins>Hello World Smaple - My First Repository</ins>*
+*<ins>Hello World Smaple - My First Repository</ins>*😀
+
 
 ## Description
 
@@ -21,7 +22,7 @@ _This is my first repository on GitHub! I am getting familiar with the website a
 
 ## Tools Used
 
-Discussed all programing languages and tools used in this project. This could include python, SQL, Excel, Power BI, Websites and more. 
+Discussed all programing languages and tools used in this project. This could include python, SQL, Excel, Power BI, Websites and more.💻
 
 ## Files used
 
@@ -29,7 +30,7 @@ Insert the file of your project
 
 ## How To Run Program
 
-
+🏃
 
 ## Additional Information
 
