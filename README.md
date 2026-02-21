@@ -13,11 +13,11 @@ This is my first repsoitory that can be used when decribing a project. I can cha
 
 ## Project Title
 
-*Hello World Smaple - My First Repository*
+*<ins>Hello World Smaple - My First Repository</ins>*
 
 ## Description
 
-This is my first repository on GitHub! I am getting familiar with the website and how to use it, and I think it's a great source for displaying documents in a professional manner!
+_This is my first repository on GitHub! I am getting familiar with the website and how to use it, and I think it's a great source for displaying documents in a professional manner!_
 
 ## Tools Used
 
